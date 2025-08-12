@@ -1,0 +1,24 @@
+{
+  "name": "القرآن الكريم",
+  "short_name": "القرآن",
+  "description": "تطبيق القرآن الكريم للقراءة والاستماع والتفسير والبحث، مع إمكانية العمل بدون اتصال بالإنترنت.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F5E9",
+  "theme_color": "#F8F5E9",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
